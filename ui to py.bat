@@ -1,0 +1,1 @@
+pyuic5 -x "D:\Python\Loly Chapters Maker\Loly Chapters Maker.ui" -o "D:\Python\Loly Chapters Maker\x.py"
